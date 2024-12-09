@@ -68,7 +68,11 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="Index.aspx" />
+
+    <Content Include="RadclilrWildCard.aspx" />
+=======
     <Content Include="MaximumStrongPair.aspx" />
+
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
@@ -88,6 +92,14 @@
     </Compile>
     <Compile Include="powela9.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="RadclilrWildCard.aspx.cs">
+      <DependentUpon>RadclilrWildCard.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="RadclilrWildCard.aspx.designer.cs">
+      <DependentUpon>RadclilrWildCard.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="RadclilrWildCard.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
