@@ -11,7 +11,7 @@ namespace IS3050Final
 {
 
 
-    public partial class Index
+    public partial class RadclilrWildCard
     {
 
         /// <summary>
@@ -24,39 +24,39 @@ namespace IS3050Final
         protected global::System.Web.UI.HtmlControls.HtmlForm form1;
 
         /// <summary>
-        /// BtnWildCard control.
+        /// txtString control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.Button BtnWildCard;
+        protected global::System.Web.UI.WebControls.TextBox txtString;
 
         /// <summary>
-        /// BtnBasicCalc control.
+        /// txtPattern control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.Button BtnBasicCalc;
+        protected global::System.Web.UI.WebControls.TextBox txtPattern;
 
         /// <summary>
-        /// BtnNQueens control.
+        /// btnMatch control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.Button BtnNQueens;
+        protected global::System.Web.UI.WebControls.Button btnMatch;
 
         /// <summary>
-        /// BtnStrongPair control.
+        /// lblResult control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.Button BtnStrongPair;
+        protected global::System.Web.UI.WebControls.Label lblResult;
     }
 }

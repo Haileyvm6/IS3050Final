@@ -68,7 +68,20 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="Index.aspx" />
+
     <Content Include="vaseylh51Queens.aspx" />
+
+
+
+    <Content Include="manuelhv224.aspx" />
+
+
+    <Content Include="RadclilrWildCard.aspx" />
+
+
+    <Content Include="MaximumStrongPair.aspx" />
+
+
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
@@ -79,7 +92,27 @@
     <Compile Include="Index.aspx.designer.cs">
       <DependentUpon>Index.aspx</DependentUpon>
     </Compile>
+
+    <Compile Include="manuelhv224.aspx.cs">
+      <DependentUpon>manuelhv224.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="manuelhv224.aspx.designer.cs">
+      <DependentUpon>manuelhv224.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="manuelhv224.cs" />
+
+    <Compile Include="MaximumStrongPair.aspx.cs">
+      <DependentUpon>MaximumStrongPair.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="MaximumStrongPair.aspx.designer.cs">
+      <DependentUpon>MaximumStrongPair.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="powela9.cs" />
+
     <Compile Include="Properties\AssemblyInfo.cs" />
+
     <Compile Include="vaseylh51Queens.aspx.cs">
       <DependentUpon>vaseylh51Queens.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
@@ -87,6 +120,16 @@
     <Compile Include="vaseylh51Queens.aspx.designer.cs">
       <DependentUpon>vaseylh51Queens.aspx</DependentUpon>
     </Compile>
+
+    <Compile Include="RadclilrWildCard.aspx.cs">
+      <DependentUpon>RadclilrWildCard.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="RadclilrWildCard.aspx.designer.cs">
+      <DependentUpon>RadclilrWildCard.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="RadclilrWildCard.cs" />
+
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />

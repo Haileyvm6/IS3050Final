@@ -9,9 +9,24 @@ namespace IS3050Final
 {
     public partial class Index : System.Web.UI.Page
     {
-        protected void Page_Load(object sender, EventArgs e)
+        protected void BtnWildCard_Click(object sender, EventArgs e)
         {
+            Response.Redirect("RadclilrWildCard.aspx");
+        }
 
+        protected void BtnBasicCalc_Click(object sender, EventArgs e)
+        {
+            Response.Redirect("manuelhv224.aspx");
+        }
+
+        protected void BtnNQueens_Click(object sender, EventArgs e)
+        {
+           
+        }
+
+        protected void BtnStrongPair_Click(object sender, EventArgs e)
+        {
+            Response.Redirect("MaximumStrongPair.aspx");
         }
     }
 }
