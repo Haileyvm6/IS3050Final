@@ -7,7 +7,7 @@
 * Semester / Year:   Fall 2024
 * Brief Description of the assignment:  Solving a leetcode problem under the hard category. To then collaborate through Github to connect all the Leetcode problems
 -->
-<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="RadclilrWildCard.aspx.cs" Inherits="IS3050Final.RadclilrWildCard" %>
+<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="RadclilrWildCard.aspx.cs" Inherits="RevalatoryRavens_FinalProject.RadclilrWildCard" %>
 
 <!DOCTYPE html>
 <html>

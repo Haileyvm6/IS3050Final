@@ -11,8 +11,8 @@
     <ProjectTypeGuids>{349c5851-65df-11da-9384-00065b846f21};{fae04ec0-301f-11d3-bf4b-00c04f79efbc}</ProjectTypeGuids>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>IS3050Final</RootNamespace>
-    <AssemblyName>IS3050Final</AssemblyName>
+    <RootNamespace>RevalatoryRavens_FinalProject</RootNamespace>
+    <AssemblyName>RevalatoryRavens_FinalProject</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <UseIISExpress>true</UseIISExpress>
     <Use64BitIISExpress />
@@ -68,20 +68,10 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="Index.aspx" />
-
     <Content Include="vaseylh51Queens.aspx" />
-
-
-
     <Content Include="manuelhv224.aspx" />
-
-
     <Content Include="RadclilrWildCard.aspx" />
-
-
     <Content Include="MaximumStrongPair.aspx" />
-
-
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
@@ -92,7 +82,6 @@
     <Compile Include="Index.aspx.designer.cs">
       <DependentUpon>Index.aspx</DependentUpon>
     </Compile>
-
     <Compile Include="manuelhv224.aspx.cs">
       <DependentUpon>manuelhv224.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
@@ -101,7 +90,6 @@
       <DependentUpon>manuelhv224.aspx</DependentUpon>
     </Compile>
     <Compile Include="manuelhv224.cs" />
-
     <Compile Include="MaximumStrongPair.aspx.cs">
       <DependentUpon>MaximumStrongPair.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
@@ -110,9 +98,7 @@
       <DependentUpon>MaximumStrongPair.aspx</DependentUpon>
     </Compile>
     <Compile Include="powela9.cs" />
-
     <Compile Include="Properties\AssemblyInfo.cs" />
-
     <Compile Include="vaseylh51Queens.aspx.cs">
       <DependentUpon>vaseylh51Queens.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
@@ -120,7 +106,6 @@
     <Compile Include="vaseylh51Queens.aspx.designer.cs">
       <DependentUpon>vaseylh51Queens.aspx</DependentUpon>
     </Compile>
-
     <Compile Include="RadclilrWildCard.aspx.cs">
       <DependentUpon>RadclilrWildCard.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
@@ -129,7 +114,6 @@
       <DependentUpon>RadclilrWildCard.aspx</DependentUpon>
     </Compile>
     <Compile Include="RadclilrWildCard.cs" />
-
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />

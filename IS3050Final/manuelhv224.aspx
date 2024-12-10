@@ -9,7 +9,7 @@
 # Citations: My team!
 # Anything else that's relevant: Nothing
     -->
-<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="manuelhv224.aspx.cs" Inherits="IS3050Final.manuelhv224" %>
+<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="manuelhv224.aspx.cs" Inherits="RevalatoryRavens_FinalProject.manuelhv224" %>
 
 <!DOCTYPE html>
 

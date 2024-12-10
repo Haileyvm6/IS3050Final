@@ -9,7 +9,7 @@ Brief Description: This webpage has a button linking to a C# code to solve a Max
 Citations: 
  --%>
 
-<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="MaximumStrongPair.aspx.cs" Inherits="IS3050Final.MaximumStrongPair" %>
+<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="MaximumStrongPair.aspx.cs" Inherits="RevalatoryRavens_FinalProject.MaximumStrongPair" %>
 
 <!DOCTYPE html>
 

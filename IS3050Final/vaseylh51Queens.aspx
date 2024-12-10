@@ -8,7 +8,7 @@ Name: Liam Vasey
 * Brief Description of the assignment:  Solving a leetcode problem that is hard and collaborating with other members using GitHub.
 -->
 
-<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="vaseylh51Queens.aspx.cs" Inherits="IS3050Final.vaseylh51Queens" %>
+<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="vaseylh51Queens.aspx.cs" Inherits="RevalatoryRavens_FinalProject.vaseylh51Queens" %>
 
 <!DOCTYPE html>
 
