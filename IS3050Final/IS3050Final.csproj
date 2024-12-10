@@ -69,6 +69,9 @@
   <ItemGroup>
     <Content Include="Index.aspx" />
 
+    <Content Include="vaseylh51Queens.aspx" />
+
+
 
     <Content Include="manuelhv224.aspx" />
 
@@ -77,6 +80,7 @@
 
 
     <Content Include="MaximumStrongPair.aspx" />
+
 
     <Content Include="Web.config" />
   </ItemGroup>
@@ -108,6 +112,15 @@
     <Compile Include="powela9.cs" />
 
     <Compile Include="Properties\AssemblyInfo.cs" />
+
+    <Compile Include="vaseylh51Queens.aspx.cs">
+      <DependentUpon>vaseylh51Queens.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="vaseylh51Queens.aspx.designer.cs">
+      <DependentUpon>vaseylh51Queens.aspx</DependentUpon>
+    </Compile>
+
     <Compile Include="RadclilrWildCard.aspx.cs">
       <DependentUpon>RadclilrWildCard.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
@@ -116,6 +129,7 @@
       <DependentUpon>RadclilrWildCard.aspx</DependentUpon>
     </Compile>
     <Compile Include="RadclilrWildCard.cs" />
+
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />

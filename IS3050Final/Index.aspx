@@ -9,6 +9,9 @@
 <body>
     <form id="form1" runat="server">
         <div>
+
+           
+
             <h1> Final Leet Code Problems</h1>
             <h2> Select a problem to solve: </h2>
 
@@ -38,6 +41,7 @@
                 that value. The solution handles arrays of up to 50,000 integers
             </p>
             <asp:Button ID="BtnStrongPair" runat="server" Text="Maximum Strong Pair" OnClick="BtnStrongPair_Click" />
+
         </div>
     </form>
 </body>
