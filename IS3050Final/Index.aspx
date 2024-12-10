@@ -1,4 +1,16 @@
-﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="Index.aspx.cs" Inherits="RevalatoryRavens_FinalProject.Index" %>
+﻿<!-- 
+# Name: Jay Powell
+# email: powela9@mail.uc.edu
+# Assignment Title: Final Assignment
+# Due Date: 12/10/24
+# Course: IS 3050
+# Semester/Year: Fall 2024
+# Brief Description: Index file that has 4 buttons linking to separate pages
+# Citations: 
+# Anything else that's relevant: Nothing
+-->
+
+<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="Index.aspx.cs" Inherits="RevalatoryRavens_FinalProject.Index" %>
 
 <!DOCTYPE html>
 
