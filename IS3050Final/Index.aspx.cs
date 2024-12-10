@@ -21,7 +21,7 @@ namespace IS3050Final
 
         protected void BtnNQueens_Click(object sender, EventArgs e)
         {
-           
+            Response.Redirect("vaseylh51Queens.aspx");
         }
 
         protected void BtnStrongPair_Click(object sender, EventArgs e)
